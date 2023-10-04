@@ -1,6 +1,9 @@
 title: Samuel Hulse
+description: Mathematical Evolutionary Biologist
 email: shulse@umd.du
 twitter_username: svhulse
 github_username: svhulse
 
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
