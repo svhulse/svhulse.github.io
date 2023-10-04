@@ -1,4 +1,13 @@
-## Understanding Population-Level Spillover Risks
+## Understanding Tradeoff Functions for Quantitative Traits
+
+Pleiotropic costs that scale as traits become more elaborate are an underlying assumption for mathematical models in many systems.
+For example, in models of quantitative resistance, such assumptions are necesary to prevent host resistance from always reaching their maximum value.
+This requires the model to have a function which maps each trait value to a cost value, in terms of mortality or fecundity. 
+The choice of such functions is consequential: some functions lead a population to reach a stable intermediate resistance level while others lead to evolutionary branching.
+Despite their importance, the difficulty of measuring tradeoff functions in empirical systems means we have little basis to assume a particualar function.
+As a first step in addressing this, I have been developing theoretical genetic models where a finite number of seperate loci contribute to the total trait value.
+
+## Modeling Population-Level Spillover Risks
 
 While most dissusions of foreign pathogen spillover risks have focused on exogenous facotrs such as land-cover change and phylogenetic distance between ancestral and naive hosts, it is becoming inceasingly clear that many species exhibit heritable variation in susceptibility to foreign pathogens which they share no coevolutionary history with.
 Furthermore, previous theoretical work has shown that the structure of this variation can have major implications for the ability of foreign pathogens to invade and persist in naive populations.
