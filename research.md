@@ -20,4 +20,4 @@ We also found that the genetic linkage between the loci underlying general and s
 Specifically, if these loci become tighly linked, a population can have a higher spillover risk, as resistance to foreign and endemic pathogens can become negativly correlated.
 This leads to a subset of the host population being more susceptible to foreign pathogens than endemic, creating an ecological niche for foreign pathogens to invade and persist.
 
-## Understanding the Signal Design of Complex Visual Patterns
+## Deterministic Evolution of Signal Design in Complex Visual Patterns
