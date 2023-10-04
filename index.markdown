@@ -1,0 +1,2 @@
+I am a mathematical evolutionary biologist broadly interested in processes that can generate and maintain diversity.
+Currently, I am a postdoc with Dr. Emily Bruns at the University of Maryland College Park.
