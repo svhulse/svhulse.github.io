@@ -1,8 +1,8 @@
-___
-layout: archive
-title: "Publications"
-permalink: /publications/
-___
+---
+layout: page
+title: Publications
+permalink: publications
+---
 
 ### Peer-Reviewed Publications
 1. **Hulse, S.V.,** Antonovics J., Hood., M.E., and Bruns E.L. (2023). Host-pathogen coevolution promotes the evolution of general, broad-spectrum resistance and reduces foreign pathogen spillover risk. Accepted, *Evolution Letters*.
