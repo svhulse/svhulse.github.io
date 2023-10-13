@@ -1,17 +1,9 @@
 title: Samuel Hulse
 description: "Theoretical Evolutionary Biologist"
 email: shulse@umd.du
-twitter_username: svhulse
 github_username: svhulse
+google_scholar: https://scholar.google.com/citations?user=NLkuoc4AAAAJ&hl=en
 
 theme:  minima
 plugins:
   - jekyll-feed
-
-
-author:
-  name            : "Samuel Hulse"
-  bio             : "Theoretical Evolutionary Biologist"
-  orcid           : https://orcid.org/0000-0003-1268-0202
-  googlescholar   : https://scholar.google.com/citations?user=NLkuoc4AAAAJ&hl=en
-  email           : "shulse@umd.edu"
