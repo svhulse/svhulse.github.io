@@ -1,3 +1,9 @@
+___
+layout: archive
+title: "Research"
+permalink: /research/
+___
+
 ## Understanding Tradeoff Functions for Quantitative Traits
 
 Pleiotropic costs that scale as traits become more elaborate are an underlying assumption for mathematical models in many systems.
