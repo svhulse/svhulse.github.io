@@ -1,2 +1,2 @@
 I am a mathematical evolutionary biologist broadly interested in processes that can generate and maintain diversity in biological systems.
-Currently, I am a postdoc with Dr. Emily Bruns at the University of Maryland College Park.
+Currently, I am a postdoc with Dr. Emily Bruns at the University of Maryland College Park. Prior to my current position, I completed my PhD in evolutionary biology under the supervision of Dr. Tamra Mendelson at the University of Maryland Baltimore County. While at UMBC, I additionally completed a MS in applied mathematics. 
