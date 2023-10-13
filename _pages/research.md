@@ -1,8 +1,8 @@
-___
-layout: archive
-title: "Research"
-permalink: /research/
-___
+---
+layout: page
+title: Research
+permalink: research
+---
 
 ## Understanding Tradeoff Functions for Quantitative Traits
 
